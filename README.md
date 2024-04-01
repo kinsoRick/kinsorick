@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Masnaveev Kamil</h1>
 <h3 align="center">Productive, constantly learning front-end developer from Russia</h3>
 
-- 🌱 I’m currently learning **ReactJS, Javascript**
+- 🌱 I’m currently learning **c++**
 
 - 👨‍💻 All of my projects are available at [Site](https://kinsorick.github.io)
 
